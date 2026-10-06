@@ -15,3 +15,4 @@ if __name__ == "__main__":
     rect = Rectangle(3, 2)
     print("Circumference:", rect.circumference(), "cm")
     print("Area:", rect.area(), "cm2")
+    print(rect)
